@@ -10,7 +10,7 @@ A simple web app that generates a secure random password with a single click and
 
 **Live Demo:**
 
-https://your-live-demo-link.com
+https://geremiq.github.io/random-password-generator/
 
 
 
@@ -19,3 +19,4 @@ https://your-live-demo-link.com
 * HTML
 * CSS
 * JavaScript
+
